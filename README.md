@@ -1,1 +1,1 @@
-# SW_algorithm
+# Solved.ac
