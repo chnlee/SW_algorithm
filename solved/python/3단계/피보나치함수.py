@@ -28,3 +28,5 @@ n = int(input())
 for i in range(n):
   a = int(input())
   print(fibonacci1(a),fibonacci2(a))
+
+  
